@@ -1,0 +1,9 @@
+server|20.70.14.20
+port|17091
+type|1
+#maint|Porkchop is on maintenance, check the Discord for information.
+
+beta_server|20.70.14.20
+beta_port|17091
+beta_type|1
+meta|localhost
